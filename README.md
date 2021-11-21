@@ -9,7 +9,14 @@
   Код и немного магии [тут.](https://github.com/kornilovaap/my_first_site)      
   С этого курса началось моё увлечение айти и погружение в системный анализ.            
   Проф версальщиком не стала, но сделать простой сайт-визитку вполне умею :muscle:    
-~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~                  
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~        
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 Знания: 
 + HTML + CSS - 3 балла из 10                        
         - JS - 2/10                        
