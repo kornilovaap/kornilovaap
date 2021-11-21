@@ -11,18 +11,12 @@
   Проф версальщиком не стала, но сделать простой сайт-визитку вполне умею :muscle:    
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~        
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-Знания: 
-+ HTML + CSS - 3 балла из 10                        
-        - JS - 2/10                        
-        - PHP - 0.5/10                           
-Инструменты: Sublime text                      
-                                   
++  HTML + CSS - 3 балла из 10
++ JS - 2/10
++ PHP - 0.5/10 
+! Sublime text 
+```                
+                                                                 
 2) [python (от понятия строки до ооп)](https://github.com/kornilovaap/Python_GeekBrains.ru)
    До ООП пока что не дошла. Но торжественно клянусь освоить эту страшную штуку до конца 2021 года.          
                          
