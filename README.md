@@ -28,10 +28,8 @@
 + IDEF
 + eEPC
 + Aris
-- BPMN
-- UML
-! Visio, Aris, Draw.io
-```        
+! Visio, Aris, Draw.io     
+          
 ------------------------------------------------         
 :five: sql    
              
