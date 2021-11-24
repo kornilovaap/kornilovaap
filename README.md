@@ -10,8 +10,8 @@
 ## Уже сейчас здесь есть:
                                                    
 :one: [С этого курса](https://github.com/kornilovaap/JavaScript_start) началось моё увлечение айти и погружение в системный анализ.    
-  Итогом первой недели обучения стал [Мой первый сайт](http://b9164023.beget.tech). ЕЕго код лежит [тут.](https://github.com/kornilovaap/my_first_site)    
-  HTML+CSS / JS / PHP + Sublime text 
+  Итогом первой недели обучения стал [Мой первый сайт](http://b9164023.beget.tech). Его код лежит [тут.](https://github.com/kornilovaap/my_first_site)    
+  `HTML+CSS / JS / PHP + Sublime text`
                                    
 -----------------------------------------------------------                       
 :two: [python (от понятия строки до ооп)](https://github.com/kornilovaap/Python_GeekBrains.ru)
@@ -19,7 +19,7 @@
                                                                             
 :three: [python для аналитиков (nympy и пр.)](https://github.com/kornilovaap/Python_for_analyst/blob/main/README.md)            
 Старт c 23.11.21 Буду держать в курсе. Обещают много интересного.           
-                                      
+ `python / pyCharm / collab`                                     
  ----------------------
      
 :four: Моделирование бизнес-процессов
