@@ -18,7 +18,7 @@
 :two: [python (от понятия строки до ооп)](https://github.com/kornilovaap/Python_GeekBrains.ru)
    До ООП пока что не дошла. Но торжественно клянусь освоить эту страшную штуку до конца 2021 года.          
                                                                             
-:three: [python для аналитиков (nympy и пр.)](https://github.com/kornilovaap/Python_for_analyst/blob/main/README.md)            
+:three: [python для аналитиков (nympy и пр.)](https://github.com/kornilovaap/Python_for_analyst)            
   Старт c 23.11.21 Буду держать в курсе. Обещают много интересного.           
 `python / pyCharm / collab`         
                          
