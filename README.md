@@ -22,10 +22,7 @@
  ----------------------
      
 :four: [Моделирование бизнес-процессов](https://github.com/kornilovaap/Business_process_modeling)
-+ IDEF
-+ eEPC
-+ Aris
-! Visio, Aris, Draw.io     
+`BPMN, IDEF0, eEPC / MS Visio, Aris, Draw.io, Bizagi`     
           
 ------------------------------------------------         
 :five: [sql](https://github.com/kornilovaap/Databases_GeekBrains.ru)    
