@@ -23,11 +23,13 @@
                          
  ----------------------
      
-:three:  [Моделирование бизнес-процессов](https://github.com/kornilovaap/Business_process_modeling)
+:three:  [Моделирование бизнес-процессов](https://github.com/kornilovaap/Business_process_modeling)                    
 `BPMN, IDEF0, eEPC / MS Visio, Aris, Draw.io, Bizagi`     
           
 ------------------------------------------------         
-:four: [sql](https://github.com/kornilovaap/Databases_GeekBrains.ru)    
+:four: [sql](https://github.com/kornilovaap/Databases_GeekBrains.ru)      
+ER-диаграмма соц-. сети. Скрипты запросов. Дамп самой базы (можно скачать и посмотреть 😄)               
+`MySQL /  ER-diagram / Workbench / Dbeaver`
              
  -------------------------------------------  
  :five:                  
