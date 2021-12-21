@@ -18,6 +18,7 @@
                                                                             
  - [python для анализа данных (nympy и пр.)](https://github.com/kornilovaap/Python_for_analyst)            
   Старт c 23.11.21 Буду держать в курсе. Обещают много интересного.           
+
 `python / pyCharm / collab`         
                          
  ----------------------
