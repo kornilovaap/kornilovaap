@@ -14,7 +14,7 @@
                       
 :two: Python
 - [python базовый.](https://github.com/kornilovaap/Python_GeekBrains.ru) (от понятия строки до ооп)
-   До ООП пока что не дошла. Но торжественно клянусь освоить эту страшную штуку до конца 2021 года. 
+   До ООП пока что не дошла. Но торжественно клянусь освоить эту страшную штуку до конца 2021 года.                     
    `python, ООП / pyCharm`
                                                                             
  - [python для анализа данных](https://github.com/kornilovaap/Python_for_analyst)            
