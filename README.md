@@ -9,7 +9,7 @@
  -----------------------------------------------------------                                                   
 :one: [С этого курса](https://github.com/kornilovaap/JavaScript_start) началось моё увлечение айти и погружение в системный анализ.    
   Итогом стал [Мой первый сайт](http://b9164023.beget.tech). Его код лежит [тут.](https://github.com/kornilovaap/JavaScript_start/tree/main/lesson_4)    
-  `HTML+CSS / JS / PHP + Sublime text`
+  `HTML+CSS, JS, PHP / Sublime text`
                                    
                       
 :two: Python
